@@ -11,7 +11,7 @@
     <!-- <a href="https://{your-demo-link.your-domain}" target="_blank" rel="noopener noreferrer">
       Demo
     </a> -->
-    <span> | </span>
+    <!-- <span> | </span> -->
     <a href="https://{your-url-to-the-solution}" target="_blank" rel="noopener noreferrer">
       Solution
     </a>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://i.ibb.co/m8yHHfw/404-page-1.png)
+![screenshot](https://i.ibb.co/vHqGH66/Screenshot-2020-11-03-My-Team-Page-Challenge.png)
 
 Second challenge for DevChallenges.io!
 

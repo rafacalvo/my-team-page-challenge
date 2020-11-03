@@ -122,6 +122,10 @@ footer {
 }
 
 @media only screen and (max-width: 1024px) {
+  body {
+    overflow-x: hidden;
+  }
+
   .container {
     padding: 0 90px;
   }
@@ -161,10 +165,6 @@ footer {
 }
 
 @media only screen and (max-width: 376px) {
-  body {
-    overflow-x: hidden; /* Hide scrollbars */
-  }
-
   .container {
     padding: 0 10px;
   }

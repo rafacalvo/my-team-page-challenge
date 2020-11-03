@@ -40,7 +40,7 @@
 
 Second challenge for DevChallenges.io!
 
-This one's more interesting because som cards are pushed down a little bit and my first answer was to adjust their margin/padding-top, but then I remembered about the `transform: translateY()` property and it made more sense (to me) to use that.
+This one's more interesting because some cards are pushed down a little bit and my first answer was to adjust their margin/padding-top, but then I remembered about the `transform: translateY()` property and it made more sense (to me) to use that.
 
 ### Built With
 

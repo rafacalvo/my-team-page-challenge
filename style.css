@@ -81,10 +81,10 @@ main {
 
 .card > p:first-child {
   position: relative;
-  width: 102px;
+  width: 160px;
   height: 16px;
-  left: 77%;
-  top: 73px;
+  left: 65%;
+  top: 100px;
   margin-top: 0;
 
   font-family: 'PT Serif', serif;

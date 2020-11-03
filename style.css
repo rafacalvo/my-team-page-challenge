@@ -70,16 +70,22 @@ main {
   margin: 0;
 }
 
+.title-row,
+.team-grid {
+  width: 100%;
+}
+
 .card {
-  width: 305px;
+  width: 260px;
 }
 
 .card > p:first-child {
   position: relative;
   width: 102px;
   height: 16px;
-  left: 68%;
+  left: 77%;
   top: 73px;
+  margin-top: 0;
 
   font-family: 'PT Serif', serif;
   font-style: normal;
